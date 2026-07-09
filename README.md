@@ -2,7 +2,7 @@
 
 **Formando profesionales con propósito desde 1925** · Alajuela, Costa Rica
 
-[![Sitio Web](https://img.shields.io/badge/🌐_Sitio_Web-unadeca.com-1a3a5c?style=flat-square)](https://www.unadeca.ac.cr.com/)
+[![Sitio Web](https://img.shields.io/badge/🌐_Sitio_Web-unadeca.ac.cr-1a3a5c?style=flat-square)](https://www.unadeca.ac.cr.com/)
 [![Admisiones](https://img.shields.io/badge/📋_Admisiones-Inscríbete-2e7d32?style=flat-square)](https://landing.unadeca.ac.cr/)
 [![Facebook](https://img.shields.io/badge/Facebook-UNADECA-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/ViveUnadeca)
 [![Instagram](https://img.shields.io/badge/Instagram-@unadeca-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/unadeca/)

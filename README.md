@@ -65,7 +65,7 @@ Este es el espacio institucional de UNADECA en GitHub. Aquí compartimos:
 
 ### Contacto
 
-📍 Alajuela, Costa Rica · 📞 +506 2436-3300 · 📧 info@unadeca.net · 🌐 [unadecacr.com](https://www.unadecacr.com/)
+📍 Alajuela, Costa Rica · 📞 +506 2436-3300 · 📧 info@unadeca.net · 🌐 [unadecacr.com](https://www.unadeca.ac.cr.com/)
 
 ---
 
